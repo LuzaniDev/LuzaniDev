@@ -15,9 +15,6 @@
   <a href="https://wa.me/5566999752039">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://github.com/LuzaniDev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 <br/>
