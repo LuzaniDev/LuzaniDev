@@ -20,11 +20,6 @@
 <br/>
 
 ---
-
-### Sobre Mim
-
-Profissional com mais de 3 anos de experiencia em **Inteligencia Artificial**, **Engenharia de Dados** e **Desenvolvimento Backend**. Historico comprovado na construcao de pipelines de dados robustos (ETL/ELT), automacoes de processos e integracoes complexas com APIs REST. Especialista em orquestracao de workflows com Apache Airflow, n8n e Airbyte, alem de desenvolvimento de solucoes conversacionais com Blip, Typebot e Chatwoot. Solida experiencia em Machine Learning e IA Generativa com PyTorch e Scikit-Learn, aplicados a analise preditiva e mineracao de dados. Conhecimento em infraestrutura DevOps com Docker, Kubernetes e AWS.
-
 <br/>
 
 <div align="center">
