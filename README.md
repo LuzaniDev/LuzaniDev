@@ -114,7 +114,7 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <b>ECOdata</b><br/>
+        <b>ECODownloader</b><br/>
         <sub>Ferramenta desktop para detectar a versão do ERP ECO instalada via Firebird e baixar atualizações diretamente do servidor WebLiberações.</sub>
         <br/><br/>
         <a href="https://github.com/LuzaniDev/ECODownloader">
