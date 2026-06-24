@@ -115,10 +115,10 @@
     <tr>
       <td width="50%" align="center">
         <b>ECOdata</b><br/>
-        <sub>Integracao Tradefy — geracao de arquivos de estoque, sellout e painel com envio SFTP e dashboard</sub>
+        <sub>Ferramenta desktop para detectar a versão do ERP ECO instalada via Firebird e baixar atualizações diretamente do servidor WebLiberações.</sub>
         <br/><br/>
-        <a href="https://github.com/LuzaniDev/ECOdata">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuzaniDev&repo=ECOdata&theme=radical&hide_border=true&title_color=00e5a0&icon_color=00e5a0&text_color=ffffff&bg_color=0d1117"/>
+        <a href="https://github.com/LuzaniDev/ECODownloader">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuzaniDev&repo=ECODownloader&theme=radical&hide_border=true&title_color=00e5a0&icon_color=00e5a0&text_color=ffffff&bg_color=0d1117"/>
         </a>
       </td>
       <td width="50%" align="center">
